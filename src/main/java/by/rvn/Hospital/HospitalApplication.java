@@ -8,7 +8,7 @@ public class HospitalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HospitalApplication.class, args);
-		int a = 5;
+		int a = 10;
 	}
 
 }
